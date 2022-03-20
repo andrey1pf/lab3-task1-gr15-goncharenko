@@ -1,11 +1,10 @@
 # Overview
-
-It is public template of assignment `"labrabota 3"` for FPMI students
+Решить задачу, используя функцию.
+Дан массив натуральных чисел размерности n. Вывести на печать все числа
+этого массива, не являющиеся полными квадратами. Функция должна проверять,является число полным квадратом или нет.
 
 # Usage
 Goncharenko Andrey, 15 gr
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
 
 # Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+lab3-task1-gr15-goncharenko
