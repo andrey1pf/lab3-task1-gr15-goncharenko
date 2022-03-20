@@ -3,7 +3,7 @@
 It is public template of assignment `"labrabota 3"` for FPMI students
 
 # Usage
-
+Goncharenko Andrey, 15 gr
 Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
 
 # Building
